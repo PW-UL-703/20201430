@@ -2,7 +2,7 @@
 //raiza de  arbol
 let cabecera = document.head
 console.log(cabecera)
-
+ //hola
 //2. obtener body
 let body = document.body
 console.log(body)
